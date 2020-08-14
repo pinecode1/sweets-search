@@ -8,4 +8,4 @@ iPHoneでお菓子を検索できるアプリ
 お菓子をiPhoneから検索して表示させるアプリです。
 
 # API参照元
-
+お菓子の虜： https://sysbird.jp/toriko/
